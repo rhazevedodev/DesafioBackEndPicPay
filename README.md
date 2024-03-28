@@ -1,13 +1,9 @@
 <h1 align="center">
   PicPay Desafio Backend Sênior
 </h1>
-
 <p align="center">
- <img src="https://img.shields.io/static/v1?label=Youtube&message=@giulianabezerra&color=8257E5&labelColor=000000" alt="@giulianabezerra" />
- <img src="https://img.shields.io/static/v1?label=Tipo&message=Desafio&color=8257E5&labelColor=000000" alt="Desafio" />
+  Projeto feito com base no vídeo da Giuliana Bizerra. Conhecimento adquirido de alto nível aqui!
 </p>
-
-Projeto elaborado [nesse vídeo](https://youtu.be/YcuscoiIN14) para solucionar [esse desafio](https://github.com/PicPay/picpay-desafio-backend?tab=readme-ov-file) para uma vaga backend com perfil sênior. A solução desenvolvida é basicamente uma versão simplificada do PicPay.
 
 ## Tecnologias
  
@@ -30,12 +26,6 @@ docker-compose up
 ```
 - Executar a aplicação Spring Boot
 - Acessar aplicação em `http://localhost:8080`.
-
-## Arquitetura
-
-![Desenho de Arquitetura](.github/Desenho%20de%20Arquitetura.png)
-
-![Diagrama de Atividades](.github/Diagrama%20de%20Atividades.png)
 
 ## API
 
